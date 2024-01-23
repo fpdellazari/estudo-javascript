@@ -6,7 +6,7 @@
 
 
 
-//document.body.innerText = 'Testando';
+// document.body.innerText = 'Testando';
 //const idade = 0;
 //console.log('Sua idade é ' + idade);
 //document.body.innerText = 'Sua idade é ' + (idade || 'Não informado'); // Este operador possui problema, porque se a idade for "0" ele identifica como se fosse não informada também
